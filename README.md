@@ -84,3 +84,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 Github: https://github.com/SalmanDanesh93/Your-MVC-Tech-Blog
 
+Heroku: https://yourtechblog.herokuapp.com/
+
+GH Page: https://salmandanesh93.github.io/Your-MVC-Tech-Blog/
